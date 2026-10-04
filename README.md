@@ -66,14 +66,44 @@ EcoReport adalah aplikasi desktop untuk membantu pencatatan, pengelolaan, pemant
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/EcoReport.git
+git clone https://github.com/zakimaul2505-cmyk/EcoReport.git
 cd EcoReport
+```
+
+### 2. Jalankan Program
+
+Pastikan Python sudah terinstall di komputer.
+
+```bash
+python ecoreport.py
+```
+
+> Jika nama file program utama berbeda, gunakan nama file `.py` utama yang terdapat di repository.
+
+### 3. Login
+
+Masuk menggunakan akun yang tersedia pada sistem sebagai:
+
+* **Administrator**
+* **Petugas Lapangan**
+
+### 4. Alur Penggunaan
+
+1. Login ke sistem
+2. Pilih menu sesuai role pengguna
+3. Buat atau lihat pengaduan lingkungan
+4. Pantau kondisi lingkungan
+5. Lihat peta dan analitik data
+6. Export laporan jika diperlukan
+
 ## Role Pengguna
 
 ### Administrator
+
 Administrator dapat melihat dashboard, mengelola data pengaduan, melihat peta wilayah, monitoring, analitik, dan melakukan export laporan.
 
 ### Petugas Lapangan
+
 Petugas Lapangan dapat membuat dan memantau pengaduan lingkungan di lapangan.
 
 ## Fokus Wilayah
