@@ -29,6 +29,38 @@ EcoReport adalah aplikasi desktop untuk membantu pencatatan, pengelolaan, pemant
 - CSV
 - GIS-ready coordinates
 
+  ## Screenshot Aplikasi
+
+### Dashboard Admin
+![Dashboard Admin](01-dashboard-admin.png)
+
+### Buat Pengaduan Admin
+![Buat Pengaduan Admin](02-buat-pengaduan-admin.png)
+
+### Data Pengaduan Admin
+![Data Pengaduan Admin](03-data-pengaduan-admin.png)
+
+### Peta Wilayah Admin
+![Peta Wilayah Admin](04-peta-wilayah-admin.png)
+
+### Monitoring Admin
+![Monitoring Admin](05-monitoring-admin.png)
+
+### Analitik Admin
+![Analitik Admin](06-analitik-admin.png)
+
+### Dashboard Petugas
+![Dashboard Petugas](07-dashboard-petugas.png)
+
+### Buat Pengaduan Petugas
+![Buat Pengaduan Petugas](08-buat-pengaduan-petugas.png)
+
+### Data Pengaduan Petugas
+![Data Pengaduan Petugas](09-data-pengaduan-petugas.png)
+
+### Laporan Ekspor Admin
+![Laporan Ekspor Admin](10-laporan-ekspor-admin.png)
+
 ## Role Pengguna
 
 ### Administrator
