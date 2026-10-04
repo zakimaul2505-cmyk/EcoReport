@@ -61,6 +61,13 @@ EcoReport adalah aplikasi desktop untuk membantu pencatatan, pengelolaan, pemant
 ### Laporan Ekspor Admin
 ![Laporan Ekspor Admin](10-laporan-ekspor-admin.png)
 
+## Cara Menjalankan
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/USERNAME/EcoReport.git
+cd EcoReport
 ## Role Pengguna
 
 ### Administrator
